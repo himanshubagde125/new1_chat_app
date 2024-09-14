@@ -1,2 +1,1 @@
- this is real estate app
- 
+welcome to chatMania
